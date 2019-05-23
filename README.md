@@ -105,3 +105,4 @@ This project is a part of my class project of Machine Learning course at Zhejian
 4. [yu4u/age-gender-estimation](https://github.com/yu4u/age-gender-estimation)
 5. [davidsandberg/facenet](https://github.com/davidsandberg/facenet)
 6. [Face Alignment with OpenCV and Python](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
+7.https://www.kaishixue.com/age-gender-estimate-tf/  Age Gender Estimate TF 一个tensorflow 识别年龄的demo
